@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.venv
+*.env
+Pipfile
+Pipfile.lock
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.eggs/
+*.whl
+
+# Logs and database files
+*.log
+*.sqlite3
+*.db
+
+# Python-specific cache files
+.cache/
+*.pyc
+*.pyo
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Flask cache and uploads
+instance/
+uploads/
+
+# Environment variables and secrets
+.env
+*.secret
+
+# TensorFlow and ML model files
+
+*.keras
+*.pb
+checkpoints/
+tensorboard_logs/
+
+# IDE settings (VSCode, PyCharm)
+.vscode/
+.idea/
+*.iml
+
+# System files
+Thumbs.db
+desktop.ini
