@@ -34,7 +34,7 @@ dist/
 
 # Flask cache and uploads
 instance/
-uploads/
+
 
 # Environment variables and secrets
 .env
